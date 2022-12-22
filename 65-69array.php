@@ -53,4 +53,9 @@ array_search('objetobuscado',$cantantes);
 //contar
 //count($cantantes);
 sizeof($cantantes);
+//ordenar 
+//https://www.php.net/manual/es/array.sorting.php
+asort($cantante) ;//ordena por valor m a M
+arsort($cantante);//ordena por valor M a m
+
 ?>

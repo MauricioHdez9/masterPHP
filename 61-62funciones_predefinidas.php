@@ -27,7 +27,7 @@ empty($frase);//comprovar si la variable de texto esta vacia
 strlen($frase);//contar caracteres de una cadena
 strpos($frase,"la vida");//encontrar un caracter
 str_replace("visa","moto",$frase);//remplasar palbras en una cadena  
-strtolower($frase);
-strtoupper($frase);
+strtolower($frase);// convierte las carateres en 
+strtoupper($frase);// convierte las carateres en 
 unset($num1);//eliminar variable 
 ?>
